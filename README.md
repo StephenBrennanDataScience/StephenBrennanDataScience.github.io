@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Welcome to my personal github page. I'm a Non-Life Actuarial Consultant with a background in Theoretical Physics and Maths.
+
+I have an interest in Data Science and I regularly get involved in small projects in order to try and improve my skill set. I've created this site in order to familiarise myself with GitHub, and to publish some of the more interesting projects I've worked on.
+
